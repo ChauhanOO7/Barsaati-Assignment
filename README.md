@@ -4,8 +4,7 @@
 
 1. Clone the project in your local machine :
    
-    By using the command:  git clone   <link>
-
+    By using the command:  git clone https://github.com/ChauhanOO7/Barsaati-Assignment.git
 2. Open the project and install all dependicies:
    
     By using the command: npm i install
