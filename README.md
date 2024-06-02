@@ -7,7 +7,7 @@
     By using the command:  git clone https://github.com/ChauhanOO7/Barsaati-Assignment.git
 2. Open the project and install all dependicies:
    
-    By using the command: npm i install
+    By using the command: npm install
 
 3. Open the backend folder and run the index.js file on terminal with the command:
 
